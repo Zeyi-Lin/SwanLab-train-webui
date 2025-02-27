@@ -1,0 +1,7 @@
+train:
+  model:
+    name: "swanlab-train-webui"
+    version: "0.0.1"
+    description: "swanlab-train-webui"
+    author: "swanlab"
+    url: "https://github.com/swanlab/swanlab-train-webui"
